@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D2691E,100👨‍💼&height=180&section=header&text=coffee%20=technology!%20%F0%9F%AB%A1&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Marcelo%20Rodrigues%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=16"/>
-</p>
+<p align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D2691E,100👨‍💼&height=180&section=header&text=coffee%20=technology!&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Marcelo%20Rodrigues%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=16"/></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=007FFF&size=22&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Node.js%2C+Java+%26+SQL+Enthusiast;CORINTHIANS+Fan+%26+Coffe%C3%A9+Lover;Building+the+future+in+Goi%C3%A1s" />
