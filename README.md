@@ -10,7 +10,7 @@
 </p>
 
 
-## Oii! eu sou o Marcelo👋
+## Eu sou o Marcelo👋
 
 🇧🇷 **São Luís de Montes Belos, Goiás**  
 
