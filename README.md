@@ -19,7 +19,6 @@
 - 🌍 Participante ativo de eventos como Campus Party, DevFest e JoinCommunity.
 - 🚀 Aprendendo sozinho, na prática
 - ⚡ Corinthians desde sempre!!
--->
 
 ## 🎯 Meus objetivos
 
